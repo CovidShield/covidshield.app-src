@@ -1,7 +1,7 @@
-baseURL: https://covidshield.app/
+baseURL: https://www.covidshield.app/
 languageCode: en
 title: COVID Shield
-publishDir: docs
+publishDir: public
 languages:
   en:
     title: COVID Shield
