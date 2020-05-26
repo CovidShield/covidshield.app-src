@@ -1,6 +1,7 @@
 {{ partial "head.html" . }}
 <body>
   {{ $baseurl := .Site.BaseURL }}
+  {{ partial "language-switcher.html" . }}
   <a
     href="{{ .Site.BaseURL  }}"
     >{{ i18n "return_to_homepage" }}</a

@@ -1,0 +1,13 @@
+<ul class="language-list" role="list">
+  {{ range $.Site.Home.AllTranslations }}
+  <li class="language-list__item">
+    {{ if eq $.Site.Language.LanguageName .Language.LanguageName }}
+    <span class="language-list__language">{{ .Language.LanguageName }}</span>
+    {{ else }}
+    <a class="language-list__language" href="{{ .Permalink }}"
+      >{{ .Language.LanguageName }}</a
+    >
+    {{ end }}
+  </li>
+  {{ end }}
+</ul>
