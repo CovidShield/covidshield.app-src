@@ -1,1 +1,12 @@
+<section class="section section--wide">
+  <h2 class="language-heading">{{ i18n "view_page_in" }}</h2>
+  <ul class="language-list" role="list">
+    {{ range $.Site.Home.AllTranslations }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+
 <script src="/js/main.js"></script>
