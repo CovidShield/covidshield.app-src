@@ -1,3 +1,4 @@
+{{if gt (len $.Site.Home.AllTranslations) 1}}
 <ul class="language-list" role="list">
   {{ range $.Site.Home.AllTranslations }}
   <li class="language-list__item">
@@ -11,3 +12,4 @@
   </li>
   {{ end }}
 </ul>
+{{ end }}
