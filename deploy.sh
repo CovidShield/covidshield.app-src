@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo
 
 # Go To Public folder
 cd public
@@ -15,7 +15,7 @@ cd public
 git add .
 
 # Commit changes.
-msg="rebuilding site $(date)"
+msg="Updating site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
