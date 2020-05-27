@@ -7,7 +7,3 @@ languages:
     title: COVID Shield
     languageName: English
     weight: 1
-  fr:
-    title: COVID Shield
-    languageName: Français
-    weight: 2
