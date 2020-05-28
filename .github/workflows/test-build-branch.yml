@@ -1,0 +1,22 @@
+name: Test build
+
+on: [pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+
+      - name: Build
+        run: hugo --verbose
+
+      - name: Validate HTML
+        uses: chabad360/htmlproofer@master
+        with:
+          directory: "./public"
+          arguments: --disable-external
