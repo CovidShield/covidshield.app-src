@@ -1,7 +1,7 @@
 twitter_title:
-  other: "COVID Shield – an exposure notification app"
+  other: "COVID Shield – une appli de notifications d'exposition à la COVID-19"
 twitter_description:
-  other: "COVID Shield is a free exposure notification solution built with privacy as its top priority."
+  other: "COVID Shield est une solution de notification d'exposition libre d'accès, conçue dans le respect absolu de la confidentialité."
 title:
   other: "COVID Shield"
 intro:
@@ -64,8 +64,8 @@ attribution:
 return_to_homepage:
   other: "Return to homepage"
 notification_time:
-  other: "now"
+  other: "maintenant"
 notification_title:
-  other: "You have possibly been exposed to COVID-19"
+  other: "Vous avez possiblement été exposé(e)"
 notification_content:
-  other: "Based on your random IDs, you have been near someone in the past 14 days who tested positive for COVID-19."
+  other: "Selon vos identifiants aléatoires, dans les 14 derniers jours, vous avez été à proximité d'une personne ayant reçu un résultat de test positif à la COVID-19."
