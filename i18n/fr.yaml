@@ -1,24 +1,23 @@
 twitter_title:
   other: "COVID Shield – une appli de notifications d'exposition à la COVID-19"
 twitter_description:
-  other: "COVID Shield est une solution de notification d'exposition libre d'accès, conçue dans le respect absolu de la confidentialité."
+  other: "COVID Shield est une solution de notifications d'exposition libre d'accès, conçue dans le respect absolu de la confidentialité."
 title:
   other: "COVID Shield"
 intro:
-  other: "COVID Shield est une solution de notification d'exposition libre d'accès, conçue dans le respect absolu de la confidentialité. Elle a été créée par un groupe de bénévoles dans le but d'aider les Canadiens et le reste du monde à reprendre le travail dans de bonnes conditions de sécurité."
+  other: "COVID Shield est une solution de notification d'exposition à la COVID-19 libre d'accès, conçue dans le respect absolu de la confidentialité. Elle a été créée par un groupe de bénévoles dans le but d'aider les Canadiens et le reste du monde à reprendre le travail dans de bonnes conditions de sécurité."
 disclaimer_title:
-  other: "How can I download and use COVID Shield?"
+  other: "Comment puis-je télécharger et utiliser COVID Shield?"
 disclaimer_message:
-  other: "COVID Shield is not currently available for download or use."
+  other: "COVID Shield n'est pas disponible actuellement pour usage, ni pour téléchargement."
 disclaimer_content:
-  other: "COVID Shield is provided as a reference for your local public health authority to build their own app. If you are interested in using COVID Shield, please contact your local government representative and ask what they are doing about exposure notification for COVID-19."
+  other: "COVID Shield est fourni à titre de référence pour que votre autorité locale de santé publique puisse bâtir sa propre application mobile. Si vous êtes intéressé(e) à utiliser COVID Shield, veuillez contacter votre représentant local du gouvernement pour savoir comment y sont traitées les notifications d'exposition à la COVID-19."
 view_on_github:
   other: "Voir sur GitHub"
 contact_us:
   other: "Nous contacter"
 paragraph_1:
-  other: 'COVID Shield est un outil privé, sécurisé et facile à utiliser, qui vise à aider les gouvernements à lancer leurs propres systèmes de notification d'exposition. L'outil est basé sur une technologie de notification d'exposition <a
-    href="https://www.apple.com/covid19/contacttracing">fournie par Apple et Google</a>, dont l'approche scrupuleuse en matière de confidentialité n'a pas d'équivalent sur le marché actuel.'
+  other: 'COVID Shield est un outil privé, sécurisé et facile à utiliser, qui vise à aider les gouvernements à lancer leurs propres systèmes de notification d’exposition. L’outil est basé sur une technologie de notification d’exposition <a href="https://www.apple.com/covid19/contacttracing">fournie par Apple et Google</a>, dont l’approche scrupuleuse en matière de confidentialité n’a pas d’équivalent sur le marché actuel.'
 paragraph_2:
   other: "Pour que l'efficacité du système de notification d'exposition soit optimale, il est important que les gouvernements lancent des applications compatibles les unes avec les autres. COVID Shield est suffisamment flexible pour être déployé à différents ordres de gouvernement en activant le serveur et l'application mobile de manière qu'ils communiquent même en présence de plusieurs instances."
 related_reading_title:
@@ -34,35 +33,33 @@ privacy_title:
 privacy_content:
   other: "<strong>L'approche de la notification d'exposition adoptée par COVID Shield place la confidentialité au rang de priorité.</strong> L'application COVID Shield, son serveur et le portail web de résultats sont tous trois conçus pour protéger la vie privée tout en aidant les gens à reprendre le travail en toute sécurité."
 privacy_action:
-  other: "Lire notre politique de confidentialité"
+  other: "Lire notre exemple de politique de confidentialité"
 three_parts:
   other: "La solution COVID Shield est formée par trois composantes : une application mobile, un serveur et un portail web de résultats."
 mobile_app_title:
   other: "Application mobile (iOS et Android)"
 mobile_app_content:
-  other: "L'application mobile fonctionne en arrière-plan et n'exige aucune interaction avec l'utilisateur après l'intégration. Elle utilise le Bluetooth pour recueillir et partager des identifiants aléatoires avec les téléphones situés à proximité, sur lesquels COVID Shield est installé. Si un utilisateur est testé positif au COVID-19, il peut choisir de partager anonymement ses données de manière que d'autres puissent être avisés d'une possible exposition. Le partage des identifiants aléatoires se fait sur une base volontaire et n'est possible que si le résultat positif du test a été confirmé par un professionnel de santé. COVID Shield télécharge périodiquement les identifiants aléatoires partagés depuis le serveur et les compare sur l'appareil de chaque utilisateur pour déterminer si une exposition possible a eu lieu."
+  other: "L'application mobile fonctionne en arrière-plan et n'exige aucune interaction avec l'utilisateur après le processus d'accueil. Elle utilise le Bluetooth pour recueillir et partager des identifiants aléatoires avec les téléphones situés à proximité, sur lesquels COVID Shield est installé. Si un utilisateur reçoit un résultat de test positif à la COVID-19, il peut choisir de partager anonymement ses données de manière que d'autres puissent être avisés d'une possible exposition. Le partage des identifiants aléatoires se fait sur une base volontaire et n'est possible que si le résultat positif du test a été confirmé par un professionnel de santé. COVID Shield télécharge périodiquement les identifiants aléatoires partagés depuis le serveur et les compare sur l'appareil de chaque utilisateur pour déterminer si une exposition possible a eu lieu."
 server_title:
   other: "Serveur"
 server_content:
   other: "Le serveur recueille et stocke de façon sécurisée les identifiants aléatoires importés depuis l'application mobile suite à un résultat de test positif confirmé. Il génère également des codes temporaires uniques qui accordent aux individus testés positifs au COVID-19 l'autorisation de mettre en ligne leurs identifiants aléatoires. Le serveur est suffisamment flexible pour un déploiement à différents ordres de gouvernement."
 web_portal_title:
-  other: "Portail web"
+  other: "Portail Web"
 web_portal_content_1:
-  other: "Le portail web de résultats fournit aux professionnels de santé des codes temporaires uniques qui peuvent être partagés avec les utilisateurs ayant été testés positifs au COVID-19. Ces codes donnent à l'utilisateur un accès lui permettant de mettre en ligne ses identifiants aléatoires via l'application mobile, s'il le souhaite. Aucun renseignement personnel n'est recueilli et il n'existe aucune association entre les codes et des tests particuliers."
+  other: "Le portail web de résultats fournit aux professionnels de la santé des codes temporaires uniques qui peuvent être partagés avec les utilisateurs ayant reçu un résultat de test positif à la COVID-19. Ces codes donnent à l'utilisateur un accès lui permettant de mettre en ligne ses identifiants aléatoires via l'application mobile, s'il le souhaite. Aucun renseignement personnel n'est recueilli et il n'existe aucune association entre les codes et des tests particuliers."
 web_portal_content_2:
   other: "L'utilisation du portail est facultative, puisqu'il est aussi possible de recourir au serveur pour générer des codes COVID Shield temporaires."
 who_built_title:
   other: "Qui a conçu COVID Shield ?"
 who_built_content_1:
-  other: "Nous sommes un groupe de bénévoles Shopify, et nous souhaitons contribuer au ralentissement de la pandémie de COVID-19 en mettant nos compétences et notre expérience au service du développement d'applications évolutives et conviviales. Nous lançons COVID Shield gratuitement, avec une licence open source flexible."
+  other: "Nous sommes un groupe de bénévoles de chez Shopify, et nous souhaitons contribuer au ralentissement de la transmission de la COVID-19 en mettant nos compétences et notre expérience au service du développement d'applications évolutives et conviviales. Nous lançons COVID Shield gratuitement, avec une licence « open source » flexible."
 who_built_content_2:
   other: 'Pour toute question, vous pouvez nous joindre à <a href="mailto:press@covidshield.app">press@covidshield.app</a>'
 attribution:
-  other:
-    'Photo de <a href="https://burst.shopify.com/@alpenglowphoto?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Line+Of+Frosty+Pines+Separates+Frozen+Lake+From+Mountains&amp;utm_medium=referral&amp;utm_source=credit">Shawna
-    et Damien Richard</a> de <a href="https://burst.shopify.com/lake?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Line+Of+Frosty+Pines+Separates+Frozen+Lake+From+Mountains&amp;utm_medium=referral&amp;utm_source=credit">Burst</a>'
+  other: 'Photo de <a href="https://burst.shopify.com/@alpenglowphoto?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Line+Of+Frosty+Pines+Separates+Frozen+Lake+From+Mountains&amp;utm_medium=referral&amp;utm_source=credit">Shawna et Damien Richard</a> de <a href="https://burst.shopify.com/lake?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Line+Of+Frosty+Pines+Separates+Frozen+Lake+From+Mountains&amp;utm_medium=referral&amp;utm_source=credit">Burst</a>'
 return_to_homepage:
-  other: "Return to homepage"
+  other: "Retourner à la page d'accueil"
 notification_time:
   other: "maintenant"
 notification_title:
