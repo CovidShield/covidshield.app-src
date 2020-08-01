@@ -6,11 +6,11 @@ title:
   other: "COVID Shield"
 intro:
   other: "COVID Shield est une solution de notification d'exposition à la COVID-19 libre d'accès, conçue dans le respect absolu de la confidentialité. Elle a été créée par un groupe de bénévoles dans le but d'aider les Canadiens et le reste du monde à reprendre le travail dans de bonnes conditions de sécurité."
-disclaimer_title:
+download_title:
   other: "Comment puis-je télécharger et utiliser COVID Shield?"
-disclaimer_message:
+download_message:
   other: "COVID Shield n'est pas disponible actuellement pour usage, ni pour téléchargement."
-disclaimer_content:
+download_content:
   other: "COVID Shield est fourni à titre de référence pour que votre autorité locale de santé publique puisse bâtir sa propre application mobile. Si vous êtes intéressé(e) à utiliser COVID Shield, veuillez contacter votre représentant local du gouvernement pour savoir comment y sont traitées les notifications d'exposition à la COVID-19."
 view_on_github:
   other: "Voir sur GitHub"
