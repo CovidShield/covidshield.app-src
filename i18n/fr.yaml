@@ -9,6 +9,7 @@ intro:
 download_title:
   other: "Comment puis-je télécharger et utiliser COVID Shield?"
 download_message:
+Alerte COVID, la version canadienne officielle de COVID Shield, est maintenant disponible pour <a href="https://apps.apple.com/fr/app/id1520284227>iOS</a> et <a href="https://play.google.com/store/apps/details?id=ca.gc.hcsc.canada.stopcovid&hl=fr>Android</a>.'
   other: "COVID Shield n'est pas disponible actuellement pour usage, ni pour téléchargement."
 download_content:
   other: "COVID Shield est fourni à titre de référence pour que votre autorité locale de santé publique puisse bâtir sa propre application mobile. Si vous êtes intéressé(e) à utiliser COVID Shield, veuillez contacter votre représentant local du gouvernement pour savoir comment y sont traitées les notifications d'exposition à la COVID-19."
